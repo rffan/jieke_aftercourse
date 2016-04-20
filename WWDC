@@ -1,0 +1,291 @@
+苹果WWDC 2015 发布会
+
+
+0.
+App Frameworks
+
+Adopting New Trackpad Features
+Advanced NSOperations
+Advanced Touch Input on iOS
+App Extension Best Practices
+Apple Watch Accessibility
+Best Practices for Progress Reporting
+Building Apps with ResearchKit
+Building Document Based Apps
+Cocoa Touch Best Practices
+Creating Complications with ClockKit
+Getting Started with Multitasking on iPad in iOS 9
+Improving the Full Screen Window Experience
+Introducing On Demand Resources
+Introducing Safari View Controller
+Introducing the Contacts Framework for iOS and OS X
+Layout and Animation Techniques for WatchKit
+Multitasking Essentials for Media-Based Apps on iPad in iOS 9
+Mysteries of Auto Layout, Part 1
+Mysteries of Auto Layout, Part 2
+New UIKit Support for International User Interfaces
+Optimizing Your App for Multitasking on iPad in iOS 9
+Performance on iOS and watchOS
+Seamless Linking to Your App
+WatchKit In-Depth, Part 1
+WatchKit In-Depth, Part 2
+WatchKit Tips and Tricks
+What's New in Cocoa
+What's New in Core Data
+What's New in HealthKit
+What's New in HomeKit
+What's New in Internationalization
+What's New in MapKit
+What's New in NSCollectionView
+What's New in Storyboards
+What's New in UIKit Dynamics and Visual Effects
+iOS Accessibility
+
+
+1.
+Design
+
+Apple Watch Design Tips and Tricks
+Designing for Apple Watch
+Designing for Future Hardware
+Designing with Animation
+Introducing the New System Fonts
+
+
+2.
+Developer Tools
+
+Advanced Debugging and the Address Sanitizer
+App Thinning in Xcode
+Authoring Rich Playgrounds
+Building Better Apps with Value Types in Swift
+Continuous Integration and Code Coverage in Xcode
+Implementing UI Designs in Interface Builder
+Improving Your Existing Apps with Swift
+Optimizing Swift Performance
+Profiling in Depth
+Protocol-Oriented Programming in Swift
+Swift and Objective-C Interoperability
+Swift in Practice
+UI Testing in Xcode
+What's New in LLDB
+
+
+3.
+Distribution
+
+Getting the Most out of App Analytics
+Supporting the Enterprise with OS X Automation
+What's New in Managing Apple Devices
+What's New in iTunes Connect
+iTunes Connect: Development to Distribution
+
+
+4.
+Featured
+
+Apple Design Awards
+Building Watch Apps
+Introducing WatchKit for watchOS 2
+Keynote
+Platforms State of the Union
+Think Audacious
+What's New in Cocoa Touch
+What's New in Swift
+What's New in Xcode
+
+
+5.
+Graphics and Games
+
+Deeper into GameplayKit with DemoBots
+Enhancements to SceneKit
+Going Social with ReplayKit and Game Center
+Introducing GameplayKit
+Managing 3D Assets with Model I/O
+Metal Performance Optimization Techniques
+What's New in Metal, Part 1
+What's New in Metal, Part 2
+What's New in SpriteKit
+
+
+6.
+Media
+
+Audio Unit Extensions
+Content Protection for HTTP Live Streaming
+Editing Movies in AV Foundation
+Monetize and Promote Your App with iAd
+Safari Extensibility: Content Blocking and Shared Links
+Using Safari to Deliver and Debug a Responsive Web Design
+What's New in Core Audio
+What's New in Core Image
+What's New in Web Development in WebKit and Safari
+
+
+7.
+System Frameworks
+
+Achieving All-day Battery Life
+Apple Pay Within Apps
+Building Responsive and Efficient Apps with GCD
+CloudKit JS and Web Services
+CloudKit Tips and Tricks
+Debugging Energy Issues
+Introducing Search APIs
+Introducing Watch Connectivity
+Low Energy, High Performance: Compression and Accelerate
+Networking with NSURLSession
+Privacy and Your App
+Security and Your Apps
+Wallet - The home for Apple Pay and more
+What's New in CloudKit
+What's New in Core Location
+What's New in Core Motion
+What's New in Network Extension and VPN
+What's New in Notifications
+Your App and Next Generation Networks
+苹果WWDC 2014 发布会
+
+
+0.
+Core OS
+
+Adopting AirPrint
+Building Apps for Enterprise and Education
+Cross Platform Nearby Networking
+Designing Accessories for iOS and OS X
+Distributing Enterprise Apps
+Fix Bugs Faster using Activity Tracing
+Keychain and Authentication with Touch ID
+Kids and Apps
+Managing Apple Devices
+Power, Performance and Diagnostics: What's new in GCD and XPC
+Taking Core Location Indoors
+User Privacy in iOS and OS X
+What's New in Core Location
+What's New in Foundation Networking
+What's New in iOS Notifications
+What's New in the Accelerate Framework
+Writing Energy Efficient Code, Part 1
+Writing Energy Efficient Code, Part 2
+
+
+1.
+Frameworks
+
+A Look Inside Presentation Controllers
+A Strategy for Great Work
+Accessibility on OS X
+Accessibility on iOS
+Adapting Your App to the New UI of OS X Yosemite
+Adopting Advanced Features of the New UI of OS X Yosemite
+Adopting Handoff on iOS and OS X
+Advanced CloudKit
+Advanced Scrollviews and Touch Handling Techniques
+Advanced Topics in Internationalization
+Advanced User Interfaces with Collection Views
+Advanced iOS Application Architecture and Patterns
+Building Adaptive Apps with UIKit
+Building Interruptible and Responsive Interactions
+Building a Document-based App
+Core iOS Application Architectural Patterns
+Creating Custom iOS User Interfaces
+Creating Extensions for iOS and OS X, Part 1
+Creating Extensions for iOS and OS X, Part 2
+Creating Modern Cocoa Apps
+Designing Intuitive User Experiences
+Designing a Great In-App Purchase Experience
+Introducing CloudKit
+Introducing HealthKit
+Introducing HomeKit
+Introducing the Modern WebKit API
+Making a Great First Impression With Strong Onboarding Design
+Optimize Your Earning Power With iAd
+Prototyping: Fake It Till You Make It
+Sharing code between iOS and OS X
+Storyboards and Controllers on OS X
+View Controller Advancements in iOS 8
+What's New in Cocoa
+What's New in Cocoa Touch
+What's New in Core Data
+What's New in Table and Collection Views
+
+
+2.
+Graphics and Games
+
+Best Practices for Building SpriteKit Games
+Building a Game with SceneKit
+Designing for Game Controllers
+Harnessing the Power of the Mac Pro with OpenGL and OpenCL
+Ingredients of Great Games
+Motion Tracking with the Core Motion Framework
+What's New in SceneKit
+What's New in SpriteKit
+Working with Metal: Advanced
+Working with Metal: Fundamentals
+Working with Metal: Overview
+
+
+3.
+Media
+
+AVAudioEngine in Practice
+Advanced Media for the Web
+Advances in Core Image
+Camera Capture: Manual Controls
+Creating 3D Interactive Content with WebGL
+Designing Responsive Web Experiences
+Developing Core Image Filters for iOS
+Direct Access to Video Encoding and Decoding
+Harnessing Metadata in Audiovisual Media
+Improving the Accessibility and Usability of Complex Web Applications
+Introducing the Photos Frameworks
+Mastering Modern Media Playback
+Web Inspector and Modern JavaScript
+What's New in Core Audio
+What's New in iAd Workbench
+Your App, Your Website, and Safari
+
+
+4.
+Services
+
+Affiliate Tools for App Developers
+Creating Great App Previews
+JavaScript for Automation
+Optimizing In-App Purchases
+Preventing Unauthorized Purchases with Receipts
+The New iTunes Connect
+
+
+5.
+Special Events
+
+Apple Design Awards
+Keynote
+Platforms State of the Union
+
+
+6.
+Tools
+
+Advanced Graphics and Animations for iOS Apps
+Advanced Swift
+Advanced Swift Debugging in LLDB
+Building Modern Frameworks
+Continuous Integration with Xcode 6
+Debugging in Xcode 6
+Improving Your App with Instruments
+Integrating Swift with Objective-C
+Intermediate Swift
+Introduction to LLDB and the Swift REPL
+Introduction to Swift
+Localizing with Xcode 6
+Swift Interoperability In Depth
+Swift Playgrounds
+Testing in Xcode 6
+What's New in Interface Builder
+What's New in LLVM
+What's New in Xcode 6
